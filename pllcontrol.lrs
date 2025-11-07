@@ -1,0 +1,173 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TPLLForm','FORMDATA',[
+  'TPF0'#8'TPLLForm'#7'PLLForm'#4'Left'#3#225#1#6'Height'#3'7'#3#3'Top'#3#160#0
+  +#5'Width'#3'P'#3#7'Caption'#6#17'PLL Configuration'#12'ClientHeight'#3' '#3
+  +#11'ClientWidth'#3'P'#3#11'Font.Height'#2#245#4'Menu'#7#8'MainMenu'#6'OnShow'
+  +#7#8'FormShow'#10'LCLVersion'#6#8'2.0.12.0'#0#6'TChart'#8'PLLChart'#4'Left'#2
+  +'E'#6'Height'#3'H'#1#3'Top'#2'('#5'Width'#3#240#2#8'AxisList'#14#1#22'Marks.'
+  +'LabelBrush.Style'#7#7'bsClear'#6'Minors'#14#0#27'Title.LabelFont.Orientatio'
+  +'n'#3#132#3#21'Title.LabelFont.Style'#11#6'fsBold'#0#13'Title.Visible'#9#13
+  +'Title.Caption'#6#9'Amplitude'#22'Title.LabelBrush.Style'#7#7'bsClear'#15'Tr'
+  +'ansformations'#7#22'LeftAxisTransformation'#0#1#19'Intervals.MaxLength'#2'd'
+  +#9'Alignment'#7#9'calBottom'#22'Marks.LabelBrush.Style'#7#7'bsClear'#6'Minor'
+  +'s'#14#0#21'Title.LabelFont.Style'#11#6'fsBold'#0#13'Title.Visible'#9#13'Tit'
+  +'le.Caption'#6#14'Frequency (Hz)'#22'Title.LabelBrush.Style'#7#7'bsClear'#0#1
+  +#9'Alignment'#7#8'calRight'#22'Marks.LabelBrush.Style'#7#7'bsClear'#6'Minors'
+  +#14#0#27'Title.LabelFont.Orientation'#3'|'#252#21'Title.LabelFont.Style'#11#6
+  +'fsBold'#0#13'Title.Visible'#9#13'Title.Caption'#6#5'Phase'#22'Title.LabelBr'
+  +'ush.Style'#7#7'bsClear'#15'Transformations'#7#23'RightAxisTransformation'#0
+  +#0#23'ExtentSizeLimit.UseXMax'#9#20'ExtentSizeLimit.XMax'#5#0#0#0#0#0#0#0#250
+  +#9'@'#16'Foot.Brush.Color'#7#9'clBtnFace'#15'Foot.Font.Color'#7#6'clBlue'#17
+  +'Title.Brush.Color'#7#9'clBtnFace'#16'Title.Font.Color'#7#6'clBlue'#18'Title'
+  +'.Text.Strings'#1#6#7'TAChart'#0#7'Toolset'#7#13'ChartToolset1'#0#11'TLineSe'
+  +'ries'#16'PLLAmpLineSeries'#12'Marks.Format'#6#4'%2:s'#19'Marks.LinkPen.Colo'
+  +'r'#7#5'clRed'#11'Marks.Style'#7#8'smsLabel'#10'AxisIndexX'#2#1#10'AxisIndex'
+  +'Y'#2#0#13'LinePen.Color'#7#5'clRed'#0#0#11'TLineSeries'#18'PLLPhaseLineSeri'
+  +'es'#12'Marks.Format'#6#4'%2:s'#19'Marks.LinkPen.Color'#7#6'clNavy'#11'Marks'
+  +'.Style'#7#8'smsLabel'#10'AxisIndexX'#2#1#10'AxisIndexY'#2#2#13'LinePen.Colo'
+  +'r'#7#6'clNavy'#0#0#0#11'TRadioGroup'#17'PLLModeRadioGroup'#4'Left'#2'0'#6'H'
+  +'eight'#2'B'#3'Top'#3#128#1#5'Width'#3#185#0#8'AutoFill'#9#7'Caption'#6#8'PL'
+  +'L Mode'#28'ChildSizing.LeftRightSpacing'#2#6#28'ChildSizing.TopBottomSpacin'
+  +'g'#2#6#29'ChildSizing.EnlargeHorizontal'#7#24'crsHomogenousChildResize'#27
+  +'ChildSizing.EnlargeVertical'#7#24'crsHomogenousChildResize'#28'ChildSizing.'
+  +'ShrinkHorizontal'#7#14'crsScaleChilds'#26'ChildSizing.ShrinkVertical'#7#14
+  +'crsScaleChilds'#18'ChildSizing.Layout'#7#29'cclLeftToRightThenTopToBottom'
+  +#27'ChildSizing.ControlsPerLine'#2#1#12'ClientHeight'#2'0'#11'ClientWidth'#3
+  +#181#0#5'Color'#7#8'clYellow'#9'ItemIndex'#2#0#13'Items.Strings'#1#6#15'Fixe'
+  +'d Frequency'#6#3'PLL'#0#7'OnClick'#7#22'PLLModeRadioGroupClick'#11'ParentCo'
+  +'lor'#8#8'TabOrder'#2#1#0#0#9'TGroupBox'#21'FrequencyScanGroupBox'#4'Left'#3
+  +#240#0#6'Height'#3#161#0#3'Top'#3#128#1#5'Width'#3#24#2#7'Caption'#6#14'Freq'
+  +'uency Scan'#12'ClientHeight'#3#143#0#11'ClientWidth'#3#20#2#5'Color'#7#9'cl'
+  +'SkyBlue'#11'ParentColor'#8#8'TabOrder'#2#2#0#12'TLabeledEdit'#18'StartFrequ'
+  +'encyEdit'#4'Left'#2#6#6'Height'#2#28#3'Top'#2'/'#5'Width'#2'h'#16'EditLabel'
+  +'.Height'#2#16#15'EditLabel.Width'#2'h'#17'EditLabel.Caption'#6#20'Start Fre'
+  +'quency (Hz)'#21'EditLabel.ParentColor'#8#16'EditLabel.Layout'#7#8'tlCenter'
+  +#18'EditLabel.WordWrap'#9#8'TabOrder'#2#0#4'Text'#6#15'Start Frequency'#10'O'
+  +'nKeyPress'#7#26'StartFrequencyEditKeyPress'#0#0#12'TLabeledEdit'#17'StopFre'
+  +'quencyEdit'#4'Left'#2'~'#6'Height'#2#28#3'Top'#2'/'#5'Width'#2'h'#16'EditLa'
+  +'bel.Height'#2#16#15'EditLabel.Width'#2'h'#17'EditLabel.Caption'#6#19'Stop F'
+  +'requency (Hz)'#21'EditLabel.ParentColor'#8#16'EditLabel.Layout'#7#8'tlCente'
+  +'r'#18'EditLabel.WordWrap'#9#8'TabOrder'#2#1#4'Text'#6#14'Stop Frequency'#10
+  +'OnKeyPress'#7#25'StopFrequencyEditKeyPress'#0#0#12'TLabeledEdit'#17'Frequen'
+  +'cyStepEdit'#4'Left'#3#246#0#6'Height'#2#28#3'Top'#2'/'#5'Width'#2'h'#16'Edi'
+  +'tLabel.Height'#2#16#15'EditLabel.Width'#2'h'#17'EditLabel.Caption'#6#19'Fre'
+  +'quency Step (Hz)'#21'EditLabel.ParentColor'#8#16'EditLabel.Layout'#7#8'tlCe'
+  +'nter'#18'EditLabel.WordWrap'#9#8'TabOrder'#2#2#4'Text'#6#14'Frequency Step'
+  +#10'OnKeyPress'#7#25'FrequencyStepEditKeyPress'#0#0#7'TButton'#20'FrequencyS'
+  +'weepButton'#4'Left'#2#22#6'Height'#2'"'#3'Top'#2'_'#5'Width'#2'p'#7'Caption'
+  +#6#5'Start'#5'Color'#7#7'clGreen'#10'Font.Style'#11#6'fsBold'#0#7'OnClick'#7
+  +#25'FrequencySweepButtonClick'#10'ParentFont'#8#8'TabOrder'#2#3#0#0#9'TSpinE'
+  +'dit'#25'FrequencyAveragesSpinEdit'#4'Left'#3'n'#1#6'Height'#2#28#3'Top'#2'/'
+  +#5'Width'#2'j'#8'MinValue'#2#1#8'OnChange'#7#31'FrequencyAveragesSpinEditCha'
+  +'nge'#8'TabOrder'#2#4#5'Value'#2#10#0#0#6'TLabel'#6'Label1'#4'Left'#3'n'#1#6
+  +'Height'#2#16#3'Top'#2#7#5'Width'#2'@'#7'Caption'#6#10'Number Ave'#11'Parent'
+  +'Color'#8#8'WordWrap'#9#0#0#6'TLabel'#21'CurrentFrequencyLabel'#4'Left'#3#174
+  +#0#6'Height'#2#16#3'Top'#2'g'#5'Width'#2'f'#7'Caption'#6#19'Current Frequenc'
+  +'y: '#11'ParentColor'#8#0#0#0#9'TCheckBox'#17'AmplitudeCheckBox'#4'Left'#2'8'
+  ,#6'Height'#2#21#3'Top'#2#8#5'Width'#3#130#0#7'Caption'#6#19'Amplitude Autosc'
+  +'ale'#7'Checked'#9#7'OnClick'#7#22'AmplitudeCheckBoxClick'#5'State'#7#9'cbCh'
+  +'ecked'#8'TabOrder'#2#3#0#0#9'TCheckBox'#13'PhaseCheckBox'#4'Left'#3'h'#2#6
+  +'Height'#2#21#3'Top'#2#8#5'Width'#2'k'#7'Caption'#6#15'Phase Autoscale'#7'Ch'
+  +'ecked'#9#7'OnClick'#7#18'PhaseCheckBoxClick'#5'State'#7#9'cbChecked'#8'TabO'
+  +'rder'#2#4#0#0#12'TLabeledEdit'#19'CenterFrequencyEdit'#4'Left'#2'1'#6'Heigh'
+  +'t'#2#28#3'Top'#3#216#1#5'Width'#3#184#0#16'EditLabel.Height'#2#16#15'EditLa'
+  +'bel.Width'#3#184#0#17'EditLabel.Caption'#6#21'Center Frequency (Hz)'#21'Edi'
+  +'tLabel.ParentColor'#8#16'EditLabel.Layout'#7#8'tlCenter'#18'EditLabel.WordW'
+  +'rap'#9#8'TabOrder'#2#5#4'Text'#6#16'Center Frequency'#10'OnKeyPress'#7#27'C'
+  +'enterFrequencyEditKeyPress'#0#0#12'TLabeledEdit'#14'ConvFactorEdit'#4'Left'
+  +#2'0'#6'Height'#2#28#3'Top'#3#8#2#5'Width'#3#184#0#16'EditLabel.Height'#2#16
+  +#15'EditLabel.Width'#3#184#0#17'EditLabel.Caption'#6#24'Conversion Factor (H'
+  +'z/V)'#21'EditLabel.ParentColor'#8#8'TabOrder'#2#6#4'Text'#6#16'ConversionFa'
+  +'ctor'#10'OnKeyPress'#7#22'ConvFactorEditKeyPress'#0#0#6'TLabel'#10'CoordLab'
+  +'el'#4'Left'#3#165#1#6'Height'#2#16#3'Top'#2#12#5'Width'#2'<'#7'Caption'#6#10
+  +'CoordLabel'#5'Color'#7#8'clYellow'#11'ParentColor'#8#11'Transparent'#8#7'Vi'
+  +'sible'#8#0#0#9'TGroupBox'#27'FrequencyModulationGroupBox'#4'Left'#2'('#6'He'
+  +'ight'#3#129#0#3'Top'#3'0'#2#5'Width'#3'0'#1#7'Caption'#6#20'Frequency Modul'
+  +'ation'#12'ClientHeight'#2'o'#11'ClientWidth'#3','#1#8'TabOrder'#2#7#0#12'TL'
+  +'abeledEdit'#16'FrequencyModEdit'#4'Left'#2#16#6'Height'#2#28#3'Top'#2#24#5
+  +'Width'#3#168#0#16'EditLabel.Height'#2#16#15'EditLabel.Width'#3#168#0#17'Edi'
+  +'tLabel.Caption'#6#25'Freq Modulation (+/-)(Hz)'#21'EditLabel.ParentColor'#8
+  +#8'TabOrder'#2#0#4'Text'#6#20'Frequency Modulation'#10'OnKeyPress'#7#24'Freq'
+  +'uencyModEditKeyPress'#0#0#12'TLabeledEdit'#13'ModPeriodEdit'#4'Left'#2#16#6
+  +'Height'#2#28#3'Top'#2'P'#5'Width'#3#168#0#16'EditLabel.Height'#2#16#15'Edit'
+  +'Label.Width'#3#168#0#17'EditLabel.Caption'#6#23'Modulation Period (sec)'#21
+  +'EditLabel.ParentColor'#8#8'TabOrder'#2#1#4'Text'#6#17'Modulation Period'#10
+  +'OnKeyPress'#7#21'ModPeriodEditKeyPress'#0#0#7'TButton'#20'FreqModControlBut'
+  +'ton'#4'Left'#3#208#0#6'Height'#2'@'#3'Top'#2' '#5'Width'#2'K'#7'Caption'#6#5
+  +'Start'#5'Color'#7#7'clGreen'#7'OnClick'#7#25'FreqModControlButtonClick'#8'T'
+  +'abOrder'#2#2#0#0#0#9'TGroupBox'#15'FreqPIDGroupBox'#4'Left'#3'h'#1#6'Height'
+  +#2'i'#3'Top'#3#168#2#5'Width'#3'`'#1#7'Caption'#6#24'Frequency PID Parameter'
+  +'s'#12'ClientHeight'#2'W'#11'ClientWidth'#3'\'#1#8'TabOrder'#2#8#0#12'TLabel'
+  +'edEdit'#12'FreqPropEdit'#4'Left'#2#8#6'Height'#2#28#3'Top'#2#24#5'Width'#2
+  +'P'#16'EditLabel.Height'#2#16#15'EditLabel.Width'#2'P'#17'EditLabel.Caption'
+  +#6#12'Proportional'#21'EditLabel.ParentColor'#8#8'TabOrder'#2#0#4'Text'#6#12
+  +'Proportional'#10'OnKeyPress'#7#20'FreqPropEditKeyPress'#0#0#12'TLabeledEdit'
+  +#11'FreqIntEdit'#4'Left'#3#128#0#6'Height'#2#28#3'Top'#2#24#5'Width'#2'P'#16
+  +'EditLabel.Height'#2#16#15'EditLabel.Width'#2'P'#17'EditLabel.Caption'#6#13
+  +'Integral (ms)'#21'EditLabel.ParentColor'#8#8'TabOrder'#2#1#4'Text'#6#8'Inte'
+  +'gral'#10'OnKeyPress'#7#19'FreqIntEditKeyPress'#0#0#12'TLabeledEdit'#12'Freq'
+  +'DiffEdit'#4'Left'#3#240#0#6'Height'#2#28#3'Top'#2#24#5'Width'#2'X'#16'EditL'
+  +'abel.Height'#2#16#15'EditLabel.Width'#2'X'#17'EditLabel.Caption'#6#17'Diffe'
+  +'rential (ms)'#21'EditLabel.ParentColor'#8#8'TabOrder'#2#2#4'Text'#6#12'Diff'
+  +'erential'#10'OnKeyPress'#7#20'FreqDiffEditKeyPress'#0#0#12'TLabeledEdit'#15
+  +'PhaseOffsetEdit'#4'Left'#3#240#0#6'Height'#2#28#3'Top'#2'8'#5'Width'#2'X'#16
+  +'EditLabel.Height'#2#16#15'EditLabel.Width'#2'['#17'EditLabel.Caption'#6#18
+  +'Phase offset (deg)'#21'EditLabel.ParentColor'#8#13'LabelPosition'#7#6'lpLef'
+  +'t'#8'TabOrder'#2#3#4'Text'#6#12'Phase Offset'#10'OnKeyPress'#7#23'PhaseOffs'
+  +'etEditKeyPress'#0#0#0#9'TGroupBox'#14'AmpPIDGroupBox'#4'Left'#3'h'#1#6'Heig'
+  +'ht'#2'h'#3'Top'#3'0'#2#5'Width'#3'`'#1#7'Caption'#6#24'Amplitude PID Parame'
+  +'ters'#12'ClientHeight'#2'V'#11'ClientWidth'#3'\'#1#8'TabOrder'#2#9#0#12'TLa'
+  +'beledEdit'#11'AmpDiffEdit'#4'Left'#3#240#0#6'Height'#2#28#3'Top'#2#22#5'Wid'
+  +'th'#2'X'#16'EditLabel.Height'#2#16#15'EditLabel.Width'#2'X'#17'EditLabel.Ca'
+  +'ption'#6#17'Differential (ms)'#21'EditLabel.ParentColor'#8#8'TabOrder'#2#0#4
+  +'Text'#6#12'Differential'#10'OnKeyPress'#7#19'AmpDiffEditKeyPress'#0#0#12'TL'
+  +'abeledEdit'#11'AmpPropEdit'#4'Left'#2#8#6'Height'#2#28#3'Top'#2#22#5'Width'
+  +#2'P'#16'EditLabel.Height'#2#16#15'EditLabel.Width'#2'P'#17'EditLabel.Captio'
+  +'n'#6#12'Proportional'#21'EditLabel.ParentColor'#8#8'TabOrder'#2#1#4'Text'#6
+  +#12'Proportional'#10'OnKeyPress'#7#19'AmpPropEditKeyPress'#0#0#12'TLabeledEd'
+  +'it'#10'AmpIntEdit'#4'Left'#3#128#0#6'Height'#2#28#3'Top'#2#22#5'Width'#2'P'
+  +#16'EditLabel.Height'#2#16#15'EditLabel.Width'#2'P'#17'EditLabel.Caption'#6
+  +#13'Integral (ms)'#21'EditLabel.ParentColor'#8#8'TabOrder'#2#2#4'Text'#6#8'I'
+  ,'ntegral'#10'OnKeyPress'#7#18'AmpIntEditKeyPress'#0#0#9'TCheckBox'#14'AmpPID'
+  +'CheckBox'#4'Left'#2#10#6'Height'#2#21#3'Top'#2'@'#5'Width'#2'b'#7'Caption'#6
+  +#13'Amplitude PID'#7'OnClick'#7#19'AmpPIDCheckBoxClick'#8'TabOrder'#2#3#0#0
+  +#12'TLabeledEdit'#21'AmplitudeSetPointEdit'#4'Left'#3#240#0#6'Height'#2#28#3
+  +'Top'#2'<'#5'Width'#2'X'#16'EditLabel.Height'#2#16#15'EditLabel.Width'#2'i'
+  +#17'EditLabel.Caption'#6#19'SetPoint/Amplitude '#21'EditLabel.ParentColor'#8
+  +#13'LabelPosition'#7#6'lpLeft'#8'TabOrder'#2#4#4'Text'#6#8'SetPoint'#10'OnKe'
+  +'yPress'#7#29'AmplitudeSetPointEditKeyPress'#0#0#0#6'TPanel'#6'Panel1'#4'Lef'
+  +'t'#2'0'#6'Height'#2'B'#3'Top'#3#192#2#5'Width'#3'"'#1#12'ClientHeight'#2'B'
+  +#11'ClientWidth'#3'"'#1#5'Color'#7#5'clRed'#10'Font.Color'#7#7'clBlack'#11'F'
+  +'ont.Height'#2#245#10'Font.Style'#11#6'fsBold'#0#11'ParentColor'#8#10'Parent'
+  +'Font'#8#8'TabOrder'#2#10#0#6'TLabel'#14'AmplitudeLabel'#4'Left'#2#8#6'Heigh'
+  +'t'#2#16#3'Top'#2#30#5'Width'#2'@'#7'Caption'#6#11'Amplitude: '#11'ParentCol'
+  +'or'#8#0#0#6'TLabel'#14'FrequencyLabel'#4'Left'#2#8#6'Height'#2#16#3'Top'#2#8
+  +#5'Width'#2'X'#7'Caption'#6#16'Frequency (Hz): '#11'ParentColor'#8#0#0#6'TLa'
+  +'bel'#10'PhaseLabel'#4'Left'#2#8#6'Height'#2#16#3'Top'#2'0'#5'Width'#2'^'#7
+  +'Caption'#6#17'Phase (degrees): '#11'ParentColor'#8#0#0#0#9'TCheckBox'#16'QC'
+  +'ontrolCheckBox'#4'Left'#3#208#2#6'Height'#2#21#3'Top'#3'@'#2#5'Width'#2'J'#7
+  +'Caption'#6#9'Q Control'#7'OnClick'#7#21'QControlCheckBoxClick'#8'TabOrder'#2
+  +#11#0#0#9'TCheckBox'#22'SelfExcitationCheckBox'#4'Left'#3#208#2#6'Height'#2
+  +#21#3'Top'#3'p'#2#5'Width'#2'`'#7'Caption'#6#15'Self Excitation'#7'OnClick'#7
+  +#27'SelfExcitationCheckBoxClick'#8'TabOrder'#2#12#0#0#25'TChartAxisTransform'
+  +'ations'#22'LeftAxisTransformation'#4'Left'#3#153#0#3'Top'#2'`'#0#23'TAutoSc'
+  +'aleAxisTransform-LeftAxisTransformationAutoScaleAxisTransform1'#0#0#0#25'TC'
+  +'hartAxisTransformations'#23'RightAxisTransformation'#4'Left'#3'y'#1#3'Top'#2
+  +'v'#0#23'TAutoScaleAxisTransform.RightAxisTransformationAutoScaleAxisTransfo'
+  +'rm1'#0#0#0#9'TMainMenu'#8'MainMenu'#4'Left'#3'T'#1#3'Top'#2#16#0#9'TMenuIte'
+  +'m'#8'FileMenu'#7'Caption'#6#4'File'#0#9'TMenuItem'#10'SaveCurves'#7'Caption'
+  +#6#11'Save Curves'#7'OnClick'#7#15'SaveCurvesClick'#0#0#0#0#11'TSaveDialog'
+  +#10'SaveDialog'#4'Left'#3#25#2#3'Top'#3#236#0#0#0#13'TChartToolset'#13'Chart'
+  +'Toolset1'#4'Left'#2'8'#3'Top'#3'X'#1#0#13'TZoomDragTool'#26'ChartToolset1Zo'
+  +'omDragTool1'#5'Shift'#11#6'ssCtrl'#6'ssLeft'#0#11'Brush.Style'#7#7'bsClear'
+  +#13'EscapeCancels'#9#0#0#23'TDataPointCrosshairTool$ChartToolset1DataPointCr'
+  +'osshairTool1'#5'Shift'#11#5'ssAlt'#6'ssLeft'#0#16'OnAfterMouseDown'#7'2Char'
+  +'tToolset1DataPointCrosshairTool1AfterMouseDown'#21'OnAfterMouseWheelDown'#7
+  +'7ChartToolset1DataPointCrosshairTool1AfterMouseWheelDown'#0#0#12'TPanDragTo'
+  +'ol'#25'ChartToolset1PanDragTool1'#5'Shift'#11#6'ssLeft'#0#0#0#0#6'TTimer'#12
+  +'FreqModTimer'#7'Enabled'#8#7'OnTimer'#7#17'FreqModTimerTimer'#12'OnStartTim'
+  +'er'#7#22'FreqModTimerStartTimer'#11'OnStopTimer'#7#21'FreqModTimerStopTimer'
+  +#3'Top'#3'X'#2#0#0#6'TTimer'#9'DataTimer'#7'OnTimer'#7#14'DataTimerTimer'#4
+  +'Left'#3#16#3#3'Top'#3#248#1#0#0#0
+]);

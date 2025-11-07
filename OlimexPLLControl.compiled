@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1594078105"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/chandra/LazarusPrograms/OlimexSerialControl/lib/x86_64-linux -Fu/usr/share/lazarus/2.0.12/components/tachart/lib/x86_64-linux/gtk2 -Fu/usr/share/lazarus/2.0.12/components/ideintf/units/x86_64-linux/gtk2 -Fu/home/chandra/.lazarus/onlinepackagemanager/packages/Sdpo/SdpoSerial/lib/x86_64-linux -Fu/usr/share/lazarus/2.0.12/components/lazcontrols/lib/x86_64-linux/gtk2 -Fu/usr/share/lazarus/2.0.12/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/2.0.12/lcl/units/x86_64-linux -Fu/home/chandra/.lazarus/onlinepackagemanager/packages/synapse40.1/lib/x86_64-linux -Fu/usr/share/lazarus/2.0.12/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/2.0.12/packager/units/x86_64-linux -Fu/home/chandra/LazarusPrograms/OlimexSerialControl/ -FU/home/chandra/LazarusPrograms/OlimexSerialControl/lib/x86_64-linux/ -FE/home/chandra/LazarusPrograms/OlimexSerialControl/ -o/home/chandra/LazarusPrograms/OlimexSerialControl/OlimexPLLControl -dUseCThreads -dLCL -dLCLgtk2 OlimexPLLControl.lpr"/>
+</CONFIG>
